@@ -1,4 +1,4 @@
-# CRUD Mascotas con Express, Sequelize y arquitectura hexagonal
+# CRUD Mascotas con Express, Sequelize
 
 Proyecto backend sencillo para administrar la tabla `TB_MASCOTAS`.
 
